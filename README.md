@@ -1,3 +1,4 @@
-# cv25_diffusion_augmentation_
-project explores how **text-to-image diffusion models** (like Stable Diffusion 2.1) can help solve the problem of **class imbalance** in computer vision datasets.  
-By generating **realistic synthetic images** for underrepresented classes, we aim to improve classification performance on both natural (CIFAR-10) and medical (Chest X-Ray) datasets.
+# Synthetic Dataset Generation with Diffusion
+
+Use **text-to-image diffusion models** to **augment rare classes** in imbalanced datasets,  
+and measure **downstream improvements** in classification performance compared to real-only training.
