@@ -1,4 +1,5 @@
-# Synthetic Dataset Generation with Diffusion
+# World-Model Planning from Egocentric Robot Video
 
-Use **text-to-image diffusion models** to **augment rare classes** in imbalanced datasets,  
-and measure **downstream improvements** in classification performance compared to real-only training.
+A **compact transformer-based world model** that predicts **future egocentric video frames**  
+to guide **robot navigation** and decision-making.  
+The model is evaluated on the **Habitat simulator** to measure planning accuracy and visual consistency.
